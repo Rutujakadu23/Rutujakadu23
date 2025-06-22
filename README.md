@@ -3,15 +3,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+Angular+%7C+React+%7C+MySQL;Building+Smart+Web+Applications;Always+Learning+🚀" alt="Typing SVG" />
 </p>
----
 
-## 🌟 About Me
-
-🎓 I'm a **Full Stack Java Developer** with a strong passion for building smart, scalable web applications.  
-🔧 Skilled in **Java**, **Spring Boot**, **MySQL**, **Angular**, **React**, and creating seamless backend-to-frontend integrations.  
-💼 I’ve worked on real-time eCommerce projects at **Thunder Cube** and **Scrimatic Solution**, building product management, user authentication, and order processing features.  
-🚀 I’m now looking for a **full-time opportunity** to grow, contribute, and collaborate in impactful teams.  
-
+## Bridging Backend Logic & Frontend Magic 
 ---
 
 ## 🏆 GitHub Trophies
