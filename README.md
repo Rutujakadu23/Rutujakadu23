@@ -4,7 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+Angular+%7C+React+%7C+MySQL;Bridging+Backend+Logic+%26+Frontend+Magic;Building+Smart+Web+Applications;Always+Learning+🚀" alt="Typing SVG" />
 </p>
 
-## 🏆 GitHub Trophies
+---
+
+<h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rutujakadu23&theme=gruvbox&no-frame=true&column=3&row=2" />
@@ -12,7 +14,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,angular,react,git,github,postman,vscode" />
@@ -20,7 +22,7 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
+<h2 align="center">📊 GitHub Stats & Activity</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rutujakadu23&show_icons=true&theme=radical&hide_border=true" />
@@ -30,7 +32,7 @@
 
 ---
 
-## 🌐 Let's Connect
+<h2 align="center">🌐 Let's Connect</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rutuja-kadu/" target="_blank">
@@ -52,7 +54,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
   <img src="https://github.com/Rutujakadu23/Rutujakadu23/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
