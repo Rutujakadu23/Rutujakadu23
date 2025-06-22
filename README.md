@@ -3,12 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+Angular+%7C+React+%7C+MySQL;Building+Smart+Web+Applications;Always+Learning+🚀" alt="Typing SVG" />
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rutujakadu23/Rutujakadu23/main/assets/Animation%20-%201750612488798.gif" width="300" alt="Female Developer GIF" />
-</p>
-
-
 ---
 
 ## 🌟 About Me
