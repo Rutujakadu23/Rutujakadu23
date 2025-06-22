@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hi, I'm Rutuja Kadu 👩‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=🚀+Full+Stack+Java+Developer;💻+Spring+Boot+%7C+Angular+%7C+React+%7C+MySQL;🛠️+Bridging+Backend+Logic+%26+Frontend+Magic;🌐+Building+Smart+Web+Applications;📚+Always+Learning+Something+New!" alt="Typing SVG" style="background-color:#000000; border-radius: 10px; padding: 10px;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+Java+Developer;💻+Spring+Boot+%7C+Angular+%7C+React+%7C+MySQL;🛠️+Bridging+Backend+Logic+%26+Frontend+Magic;🌐+Building+Smart+Web+Applications;📚+Always+Learning+Something+New!" alt="Typing SVG" />
 </p>
 
 
