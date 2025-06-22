@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://lottie.host/3a5b7db3-3e53-4f79-90f9-7c6881c49ac9/fP6TbyVp6B.json" width="300" />
+  <img src="https://raw.githubusercontent.com/pritishvaidya/pritishvaidya/master/assets/programmer.gif" width="300" alt="Female Developer" />
 </p>
+>
 
 ---
 
