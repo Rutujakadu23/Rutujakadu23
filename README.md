@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
- <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" /></p>
+  <img src="https://lottiefiles.com/example-2.gif" width="300" alt="Developer working on laptop" />
+</p>
 
 ---
 
