@@ -1,11 +1,8 @@
 <h1 align="center">✨ Hi, I'm Rutuja Kadu 👩‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+Angular+%7C+React+%7C+MySQL;Building+Smart+Web+Applications;Always+Learning+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+Angular+%7C+React+%7C+MySQL;Bridging+Backend+Logic+%26+Frontend+Magic;Building+Smart+Web+Applications;Always+Learning+🚀" alt="Typing SVG" />
 </p>
-
-## Bridging Backend Logic & Frontend Magic 
----
 
 ## 🏆 GitHub Trophies
 
