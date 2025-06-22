@@ -4,14 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+Java+Developer;💻+Spring+Boot+%7C+Angular+%7C+React+%7C+MySQL;🛠️+Bridging+Backend+Logic+%26+Frontend+Magic;🌐+Building+Smart+Web+Applications;📚+Always+Learning+Something+New!" alt="Typing SVG" />
 </p>
 
-
-
----
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://github.com/Rutujakadu23/Rutujakadu23/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
 ---
 
 <h2 align="center">🏆 GitHub Trophies</h2>
@@ -60,5 +52,11 @@
   </a>
 </p>
 
+---
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://github.com/Rutujakadu23/Rutujakadu23/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
 ---
 
