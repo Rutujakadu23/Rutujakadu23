@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://lottiefiles.com/example-2.gif" width="300" alt="Developer working on laptop" />
+  <img src="https://lottie.host/3a5b7db3-3e53-4f79-90f9-7c6881c49ac9/fP6TbyVp6B.json" width="300" />
 </p>
 
 ---
