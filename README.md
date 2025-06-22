@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/pritishvaidya/pritishvaidya/master/assets/programmer.gif" width="300" alt="Female Developer" />
 </p>
->
 
 ---
 
