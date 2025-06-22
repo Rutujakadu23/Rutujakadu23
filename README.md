@@ -1,33 +1,62 @@
-# 👩‍💻 Rutuja Kadu
+<h1 align="center">✨ Hi, I'm Rutuja Kadu 👩‍💻</h1>
 
-### Welcome to my GitHub Profile!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+Angular+%7C+React+%7C+MySQL;Building+Smart+Web+Applications;Always+Learning+🚀" alt="Typing SVG" />
+</p>
 
-I’m a passionate Java developer with experience in Spring Boot, API development, and full-stack projects like e-commerce platforms. I enjoy solving problems, building scalable apps, and constantly learning new tech!
-
----
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=RutujaKadu&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 
 ---
 
-### 🔧 Tech Stack
+## 🌟 About Me
 
-- 💻 Java | Spring Boot | MySQL
-- 🌐 HTML | CSS | JavaScript | Angular | React Native
-- ☁️ REST APIs | Git | GitHub
-
----
-
-### 📈 GitHub Stats
-
-![Rutuja's GitHub stats](https://github-readme-stats.vercel.app/api?username=RutujaKadu&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RutujaKadu&layout=compact&theme=gruvbox)
+🎓 I'm a **Full Stack Java Developer** with a strong passion for building smart, scalable web applications.  
+🔧 Skilled in **Java**, **Spring Boot**, **MySQL**, **Angular**, **React**, and creating seamless backend-to-frontend integrations.  
+💼 I’ve worked on real-time eCommerce projects at **Thunder Cube** and **Scrimatic Solution**, building product management, user authentication, and order processing features.  
+🚀 I’m now looking for a **full-time opportunity** to grow, contribute, and collaborate in impactful teams.  
 
 ---
 
-### 📬 Connect with Me
+## 🏆 GitHub Trophies
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/rutujakadu)
-- 📧 Email: rutujakadu33@gmail.com
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rutujakadu23&theme=gruvbox&no-frame=true&column=3&row=2" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,angular,react,git,github,postman,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rutujakadu23&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rutujakadu23&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rutujakadu23&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rutuja-kadu/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+  <a href="mailto:rutujakadu33@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Rutujakadu23"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Rutujakadu23/Rutujakadu23/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
