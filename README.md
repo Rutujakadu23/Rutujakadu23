@@ -49,9 +49,21 @@
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rutuja-kadu/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
-  <a href="mailto:rutujakadu33@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Rutujakadu23"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rutuja-kadu/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:rutujakadu33@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Rutujakadu23" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/rutujakadu23/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" alt="Instagram" />
+  </a>
 </p>
 
 ---
