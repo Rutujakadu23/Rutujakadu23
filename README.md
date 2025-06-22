@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749527-7c98d9d9-e326-4a80-b284-c6ca9d3c8b7b.gif" width="300" alt="Female Developer" />
+  <img src="https://raw.githubusercontent.com/Rutujakadu23/Rutujakadu23/main/assets/Animation%20-%201750612488798.gif" width="300" alt="Female Developer GIF" />
 </p>
+
 
 ---
 
