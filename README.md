@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👩‍💻 Rutuja Kadu
 
-<!--
-**Rutujakadu23/Rutujakadu23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my GitHub Profile!
 
-Here are some ideas to get you started:
+I’m a passionate Java developer with experience in Spring Boot, API development, and full-stack projects like e-commerce platforms. I enjoy solving problems, building scalable apps, and constantly learning new tech!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=RutujaKadu&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 🔧 Tech Stack
+
+- 💻 Java | Spring Boot | MySQL
+- 🌐 HTML | CSS | JavaScript | Angular | React Native
+- ☁️ REST APIs | Git | GitHub
+
+---
+
+### 📈 GitHub Stats
+
+![Rutuja's GitHub stats](https://github-readme-stats.vercel.app/api?username=RutujaKadu&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RutujaKadu&layout=compact&theme=gruvbox)
+
+---
+
+### 📬 Connect with Me
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/rutujakadu)
+- 📧 Email: rutujakadu33@gmail.com
