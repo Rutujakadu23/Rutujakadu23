@@ -1,23 +1,29 @@
-<!-- Profile Header Image -->
-<p align="center">
-  <img src="https://github.com/Rutujakadu23/Rutujakadu23/assets/YOUR-IMAGE-ID/banner.png" alt="Banner" />
-</p>
-
 <h1 align="center">✨ Hi, I'm Rutuja Kadu 👩‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=0ED3CF&center=true&vCenter=true&width=750&lines=🚀+Full+Stack+Java+Developer;💡+Spring+Boot+%7C+React+%7C+Angular+%7C+MySQL;🎯+Passionate+about+Problem+Solving+and+Clean+Code;🌐+Turning+Ideas+into+Scalable+Web+Apps;📚+Continuously+Learning+%26+Improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+Java+Developer;💻+Spring+Boot+%7C+Angular+%7C+React+%7C+MySQL;🛠️+Bridging+Backend+Logic+%26+Frontend+Magic;🌐+Building+Smart+Web+Applications;📚+Always+Learning+Something+New!" alt="Typing SVG" />
 </p>
 
----
+<h2 align="center">🌐 Let's Connect</h2>
 
-## 🌟 About Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/rutuja-kadu/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:rutujakadu33@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Rutujakadu23" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/rutujakadu23/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" alt="Instagram" />
+  </a>
+</p>
 
-- 👩‍💻 Full Stack Java Developer passionate about building clean, scalable, and efficient applications.
-- 🔧 1.5+ years of hands-on experience in backend & frontend technologies.
-- 🎓 B.E. in Computer Science
-- 💬 Let's collaborate and build something awesome!
-- 🌱 Currently learning: **Microservices, DevOps, Cloud Deployment**
 
 ---
 
