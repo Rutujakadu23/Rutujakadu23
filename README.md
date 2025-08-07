@@ -1,68 +1,128 @@
-<!-- Dynamic Cover Banner -->
+<h1 align="center">✨ Hi, I'm Rutuja Kadu 👩‍💻</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Design+Patterns+in+Java;Handcrafted+Notes+by+Rutuja+Kadu;Explore+23+Powerful+Patterns!&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+Java+Developer;💻+Spring+Boot+%7C+Angular+%7C+React+%7C+MySQL;🛠️+Bridging+Backend+Logic+%26+Frontend+Magic;🌐+Building+Smart+Web+Applications;📚+Always+Learning+Something+New!" alt="Typing SVG" />
 </p>
 
-<!-- Animated GIF or Carousel -->
+<h2 align="center">🌐 Let's Connect</h2>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTc0bGZnbDk5MmVrbXB3eGtmeWFibHcwczNwc2gxYWUzdDg2aHM4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y4z9olnoVl5QI/giphy.gif" width="600"/>
+  <a href="https://www.linkedin.com/in/rutuja-kadu/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:rutujakadu33@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Rutujakadu23" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/rutujakadu23/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" alt="Instagram" />
+  </a>
 </p>
 
 ---
 
-# 📘 Design Patterns in Java (Handwritten PDF Notes)
+## 🧰 Tech Stack
 
-📝 Dive deep into the world of **Object-Oriented Design Patterns** with my latest **handcrafted PDF** — neatly compiled for Java developers. It covers **all 23 design patterns** including:
-
-- ✅ Creational Patterns
-- ✅ Structural Patterns
-- ✅ Behavioral Patterns
-
-> Perfect for interviews, software architecture preparation, and mastering reusable code structures!
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,html,css,js,angular,react,nodejs,postman,git,github,vscode,figma" />
+</p>
 
 ---
 
-## 📂 Table of Contents (From PDF)
-- Singleton, Factory, Abstract Factory, Builder, Prototype  
-- Adapter, Bridge, Composite, Decorator, Façade, Flyweight, Proxy  
-- Chain of Responsibility, Command, Interpreter, Iterator, Mediator, Memento, Observer, State, Strategy, Template Method, Visitor
+## 🧠 Coding Profiles
 
-📌 View full PDF 👉 [Design Pattern Notes by Rutuja](#) (🔗 Upload to Google Drive or GitHub release)
-
----
-
-## 🌐 Developer Profiles
-
-| Platform | Profile Link |
-|----------|--------------|
-| 🔗 TakeUForward | [Rutuja23](https://takeuforward.org/profile/Rutuja23) |
-| 💻 LeetCode | [Rutuja_Kadu](https://leetcode.com/u/Rutuja_Kadu/) |
-| 👨‍💻 HackerRank | [rutujakadu33](https://www.hackerrank.com/profile/rutujakadu33) |
-
----
-
-## 🏆 Badges & Skills
-
-### 🚀 Languages & Tools
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 🥇 Achievements
-- ✅ Completed 200+ DSA problems on LeetCode
-- ✅ Participated in TakeUForward 30-Day DSA Challenge
-- ✅ Created full-stack e-commerce application using Spring Boot + React
+<p align="center">
+  <a href="https://takeuforward.org/profile/Rutuja23" target="_blank">
+    <img src="https://img.shields.io/badge/Take U Forward-Profile-003566?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Rutuja_Kadu/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/profile/rutujakadu33" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🔗 Let's Connect
+## 🏆 GitHub Trophies
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rutuja_Kadu-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rutuja-kadu/)
-[![GitHub](https://img.shields.io/badge/GitHub-RutujaKadu23-black?style=for-the-badge&logo=github)](https://github.com/Rutujakadu23)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rutujakadu23&theme=monokai&no-frame=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 ---
 
-> ⭐ Don't forget to star this repo if you find the notes useful!
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rutujakadu23&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rutujakadu23&theme=tokyonight&hide_border=true&border_radius=10" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rutujakadu23&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [SkillVerse](https://github.com/Rutujakadu23/SkillVerse---Full-Stack-E-Learning-Platfor) | E-learning platform with authentication, quizzes, admin/student dashboards. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java) ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql) |
+| [E-Commerce Dashboard](https://github.com/Rutujakadu23/Ecommerce-Dashboard) | Web dashboard for supplier/buyer portal with product management. | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular) ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot) |
+| [OTP Login App](https://github.com/Rutujakadu23/OTP-App) | Secure email OTP-based login system using JavaMail & Spring. | ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring) |
+
+---
+
+## 🏅 Achievements & Certifications
+
+- ✅ Solved 150+ problems on ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode)
+- ✅ Verified Competitive Profile on [Take U Forward](https://takeuforward.org/profile/Rutuja23)
+- ✅ Full Stack Project Builder 🚀
+- 🎓 Certified in:  
+  ![Java](https://img.shields.io/badge/Java-Certified-blue?style=flat-square&logo=java)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-Mastery-green?style=flat-square&logo=springboot)
+  ![Git](https://img.shields.io/badge/Git-Advanced-orange?style=flat-square&logo=git)
+  ![MySQL](https://img.shields.io/badge/MySQL-Expert-teal?style=flat-square&logo=mysql)
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Rutujakadu23/Rutujakadu23/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rutuja-kadu/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:rutujakadu33@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Rutujakadu23" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/rutujakadu23/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+> _“Code is like humor. When you have to explain it, it’s bad.”_ — Cory House
