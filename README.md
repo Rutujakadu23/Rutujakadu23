@@ -56,7 +56,7 @@
 
 <p align="center">
   <!-- Main Trophy Generator -->
-## 🏆 GitHub Trophies  
+ 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rutujakadu23&theme=flat&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
