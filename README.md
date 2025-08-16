@@ -55,12 +55,13 @@
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <!-- Primary Trophy Generator -->
+  <!-- Main Trophy Generator -->
   <img src="https://github-profile-trophy.vercel.app/?username=Rutujakadu23&theme=radical&no-frame=true&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
-  <!-- Backup Mirror (use if above doesn't load) -->
-  <!-- <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=Rutujakadu23&theme=radical&no-frame=true&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" /> -->
+  <!-- Backup Trophy Mirror (uncomment if main doesn't work) -->
+  <!-- <img src="https://github-profile-trophy-git-main.ryo-ma.vercel.app/?username=Rutujakadu23&theme=radical&no-frame=true&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" /> -->
 </p>
+
 
 
 ---
